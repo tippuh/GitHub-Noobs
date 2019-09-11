@@ -27,24 +27,24 @@ h2{
 }
 
 p{
-    color: black;
-    margin: 0 auto;
-    text-align: center
+	color: black;
+	margin: 0 auto;
+	text-align: center
 }
 
 ol {
-  list-style-type: none;
-  padding: 2;
-  overflow: hidden;
-  background-color: #333;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  text-decoration: none;
+	list-style-type: none;
+	padding: 2;
+	overflow: hidden;
+	background-color: #333;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	text-decoration: none;
 }
 
 .centered{
-    text-align: center;	
+	text-align: center;	
 }
 
 .paragraphmiddle{
@@ -52,21 +52,21 @@ ol {
  	text-align:left;
  	margin-left: 70px;
  	margin-right: 70px;
-    padding: 0;
+ 	padding: 0;
  }
 
 li a {
-  float: left;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 8px 12px;
-  text-decoration:none
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 8px 12px;
+	text-decoration:none
 }
 
 li a:hover {
-  background-color: #006be8;
-  color: white;
+	background-color: #006be8;
+	color: white;
 }
 
 a{
