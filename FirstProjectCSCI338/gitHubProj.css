@@ -1,0 +1,33 @@
+body{
+background-color: black;
+}
+
+h1{
+    color: gold;
+    margin: 0 auto;
+    text-align: center
+}
+
+h2{
+    color: black;
+    margin: 0 auto;
+    text-align: center
+}
+
+
+#container{
+    margin: 0px auto;
+    height:1000px;
+    max-width: 970px;
+    min-width: 300px;
+    background-color:gray;
+    border-width: thick;
+    box-shadow: 5px 5px 5px 5px;
+    align-content: center;
+}
+
+p{
+        color: black;
+    margin: 0 auto;
+    text-align: center
+}
