@@ -84,3 +84,15 @@ a{
 	face = Helvetica;
 	color = white;
 }
+
+.footeredit {
+	background-color: #006be8;
+ 	position: absolute;
+ 	left: 0;
+ 	bottom: 0;
+ 	height: 50px;
+ 	width: 100%;
+ 	overflow: hidden;
+ 	padding: 0;
+ 	text-align: center; 
+ }
