@@ -87,12 +87,11 @@ a{
 
 .footerclass{
 	font-size:25;
-	face: Helvetica;
 	color: white;
 }
 
 .footeredit {
-	background-color: #006be8;
+	background-color: rgb(220, 220, 220);
  	position: sticky;
  	left: 0;
  	bottom: 5;
