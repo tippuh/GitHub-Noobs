@@ -55,6 +55,12 @@ ol {
  	padding: 0;
  }
 
+ .centerImage{
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+
 li a {
 	float: left;
 	display: block;
