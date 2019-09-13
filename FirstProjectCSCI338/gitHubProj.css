@@ -92,7 +92,7 @@ a{
 }
 
 .footeredit {
-	background-color: #006be8;
+	background-color: rgb(220, 220, 220);
  	position: sticky;
  	left: 0;
  	bottom: 5;
