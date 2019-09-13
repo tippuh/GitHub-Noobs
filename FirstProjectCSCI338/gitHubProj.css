@@ -87,8 +87,8 @@ a{
 
 .footerclass{
 	font-size:25;
-	face = Helvetica;
-	color = white;
+	face: Helvetica;
+	color: white;
 }
 
 .footeredit {
