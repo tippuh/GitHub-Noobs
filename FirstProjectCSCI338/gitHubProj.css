@@ -93,7 +93,7 @@ a{
 
 .footeredit {
 	background-color: #006be8;
- 	position: absolute;
+ 	position: sticky;
  	left: 0;
  	bottom: 0;
  	height: 50px;
