@@ -95,11 +95,11 @@ a{
 	background-color: #006be8;
  	position: sticky;
  	left: 0;
- 	bottom: 0;
+ 	bottom: 5;
  	height: 50px;
  	width: 100%;
     z-index: 10;
  	overflow: hidden;
- 	padding: 0;
+ 	padding: 10;
  	text-align: center; 
  }
